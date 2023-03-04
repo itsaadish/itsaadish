@@ -59,16 +59,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaadish" alt="aadisharma" />
 <!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsaadish&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsaadish&show_icons=true&theme=gotham" alt="aadisharma" />
 
 
 
