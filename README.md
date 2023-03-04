@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://itsaadish.github.io/itsaadish), a recent graduate from iit delhi ,carving my way into computer sciences.
+hi, i'm [Aadish Sharma](https://itsaadish.github.io/itsaadish), a recent graduate from iit delhi ,carving my way into computer sciences.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
