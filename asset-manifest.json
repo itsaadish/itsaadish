@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/itsaadish/static/css/main.f63fc422.chunk.css",
-    "main.js": "/itsaadish/static/js/main.d0d157ff.chunk.js",
-    "main.js.map": "/itsaadish/static/js/main.d0d157ff.chunk.js.map",
+    "main.css": "/itsaadish/static/css/main.725cc488.chunk.css",
+    "main.js": "/itsaadish/static/js/main.1c250c04.chunk.js",
+    "main.js.map": "/itsaadish/static/js/main.1c250c04.chunk.js.map",
     "runtime-main.js": "/itsaadish/static/js/runtime-main.bddae667.js",
     "runtime-main.js.map": "/itsaadish/static/js/runtime-main.bddae667.js.map",
-    "static/js/2.feb0c015.chunk.js": "/itsaadish/static/js/2.feb0c015.chunk.js",
-    "static/js/2.feb0c015.chunk.js.map": "/itsaadish/static/js/2.feb0c015.chunk.js.map",
+    "static/js/2.c33cff84.chunk.js": "/itsaadish/static/js/2.c33cff84.chunk.js",
+    "static/js/2.c33cff84.chunk.js.map": "/itsaadish/static/js/2.c33cff84.chunk.js.map",
     "index.html": "/itsaadish/index.html",
-    "static/css/main.f63fc422.chunk.css.map": "/itsaadish/static/css/main.f63fc422.chunk.css.map",
-    "static/js/2.feb0c015.chunk.js.LICENSE.txt": "/itsaadish/static/js/2.feb0c015.chunk.js.LICENSE.txt"
+    "static/css/main.725cc488.chunk.css.map": "/itsaadish/static/css/main.725cc488.chunk.css.map",
+    "static/js/2.c33cff84.chunk.js.LICENSE.txt": "/itsaadish/static/js/2.c33cff84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bddae667.js",
-    "static/js/2.feb0c015.chunk.js",
-    "static/css/main.f63fc422.chunk.css",
-    "static/js/main.d0d157ff.chunk.js"
+    "static/js/2.c33cff84.chunk.js",
+    "static/css/main.725cc488.chunk.css",
+    "static/js/main.1c250c04.chunk.js"
   ]
 }
