@@ -3,7 +3,7 @@ import Aboutme from "./components/aboutme/aboutme";
 import { BrowserRouter,HashRouter ,Routes, Route, Link } from 'react-router-dom';
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
          <div className="App">
           <Home></Home>
          <Routes>
@@ -11,7 +11,7 @@ function App() {
           </Routes>
         </div>  
     
-    </BrowserRouter>
+    </HashRouter>
     
   );
 }
