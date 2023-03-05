@@ -1,13 +1,12 @@
-
-const Info = () => {
-
-   
-
+import VantaJs from "./Vanta"
+import NavigationBar from "./components/navbar/navbar"
+const Home = () => {
     return (
-        <div className="position-fixed top-50 start-50 translate-middle container">
-           
-        </div>
+        <>
+         <VantaJs />
+      <NavigationBar></NavigationBar>
+        </>
     );
 }
 
-export default Info;
+export default Home;
