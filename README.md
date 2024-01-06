@@ -1,6 +1,6 @@
 ### hey there 
 
-<a href="https://twitter.com/aadisharma8441">
+<a href="https://X.com/aadisharma8441">
   <img align="left" alt="Aadish Sharma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aadish-sharma/">
