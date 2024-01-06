@@ -11,17 +11,17 @@
 
 <br />
 
-hi, i'm [Aadish Sharma](https://itsaadish.github.io/itsaadish), a recent graduate from IIT Delhi, carving my way into computer sciences.
+hi, I'm [Aadish Sharma](https://itsaadish.github.io/itsaadish), a recent graduate from IIT Delhi, carving my way into computer sciences.
 
-I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/itsaadish/itsaadish/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:aadisharma.iitd.@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -34,7 +34,7 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -48,7 +48,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/aadisharma8441" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -58,7 +58,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 my Github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsaadish&show_icons=true&theme=gotham" alt="aadisharma" />
 
