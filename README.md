@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=itsaadish.itsaadish)
 
-hi, I'm [Aadish Sharma](https://itsaadish.github.io/itsaadish), a recent graduate from IIT Delhi, carving my way into computer sciences.
+Hi, I'm [Aadish Sharma](https://itsaadish.github.io/itsaadish), a recent graduate from IIT Delhi, carving my way into computer sciences.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
